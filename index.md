@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 layout: default
 title: Local Development Index Page
@@ -14,3 +15,6 @@ The Docs folder index page can be reached following
 
 In the normal GitHub Pages deployment the Docs index can be reached clicking
 on the home link at the top of the left navigation bar.
+=======
+
+>>>>>>> 77193977664aa3dbfcdf870c985040cbd2c12375
